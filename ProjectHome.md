@@ -1,0 +1,1 @@
+A project to create a database of a basketball (maybe other sports?) league, and provide statistics, game results, tables.
